@@ -13,15 +13,12 @@ and percentage discount, but do not add back rounding.
 
 ## Student task
 
-Only edit the two functions in `hw1.py` that contain `### YOUR CODE HERE`:
+Only edit the two functions in `hw1.py` that contain:
 
-- `build_chain()` creates your LangChain chain.
+- `build_chain()` creates LangChain chain.
 - `answer_queries()` runs the chain on the receipt images and returns one final
   response for each question.
 
-You may use prompt chaining, routing, parallel calls, reflection, or a
-combination. Your final responses should each contain one HKD amount. Do not
-hard-code filenames or public answers; grading uses unseen receipt folders.
 
 ## Setup and public test
 
