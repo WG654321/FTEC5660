@@ -58,3 +58,9 @@ Run `python -m unittest discover -s tests` for budget tests. Analysis requires a
 The student must review the work, add identifying information as required, record a Zoom presentation under 15 minutes. These external submission steps are not represented as already complete. AI assistance was used in implementation, orchestration, analysis and drafting.
 
 Sources: https://arxiv.org/html/2510.04618v3 ; https://github.com/ace-agent/ace ; https://api-docs.deepseek.com/zh-cn/quick_start/pricing/
+
+## Published evidence
+
+Repository: https://github.com/WG654321/FTEC5660/tree/main/Reproducibility
+
+All raw data and results are bundled in `output/experiment_evidence.tar.gz`. Extract at this project directory with `tar -xzf output/experiment_evidence.tar.gz` before running analysis or inspecting the paths above. The archive includes completed and interrupted attempts. The full local submission ZIP additionally bundles code, report, slides and figures.
