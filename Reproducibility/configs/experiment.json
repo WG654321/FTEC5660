@@ -1,0 +1,13 @@
+{
+  "upstream_commit": "82709de050e1db6e6ef2f07bcb0393560b94992a",
+  "task": "formula",
+  "budget_cny": 100,
+  "pilot_limit_cny": 5,
+  "seeds": [42, 43, 44],
+  "pilot_sizes": {"train": 5, "val": 5, "test": 10},
+  "main_sizes": {"train": 50, "val": 30, "test": 100},
+  "arms": {"base": null, "ace_r3": 3, "ace_r1": 1},
+  "max_tokens": 2048,
+  "workers": 4,
+  "status": "complete: nine main runs across three seeds"
+}
